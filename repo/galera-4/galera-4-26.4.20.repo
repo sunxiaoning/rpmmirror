@@ -1,0 +1,7 @@
+[official-galera-4-26.4.20]
+name=official-galera-4-26.4.20 Repository
+baseurl=https://releases.galeracluster.com/galera-4.20/redhat/$releasever/$basearch/
+enabled=1
+gpgcheck=1
+gpgkey=https://releases.galeracluster.com/GPG-KEY-galeracluster.com
+module_hotfixes=true

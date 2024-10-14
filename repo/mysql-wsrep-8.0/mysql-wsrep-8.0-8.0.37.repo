@@ -1,0 +1,7 @@
+[official-mysql-wsrep-8.0-8.0.37]
+name=official-mysql-wsrep-8.0-8.0.37 Repository
+baseurl=https://releases.galeracluster.com/mysql-wsrep-8.0.37-26.19/redhat/$releasever/$basearch/
+enabled=1
+gpgcheck=1
+gpgkey=https://releases.galeracluster.com/GPG-KEY-galeracluster.com
+module_hotfixes=true
